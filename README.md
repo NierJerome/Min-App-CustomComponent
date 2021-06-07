@@ -1,0 +1,1 @@
+# Min-App-CustomComponent
